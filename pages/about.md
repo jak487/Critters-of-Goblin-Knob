@@ -14,6 +14,17 @@ credits: true
 
 ## About the Collection
 
+- one
+- two
+- three
+
+Ordered list:
+
+1. one
+2. two
+
+[hyperlink text](link).
+
 This site is generated using [`collectionbuilder-gh`](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
 - a CSV of collection metadata
