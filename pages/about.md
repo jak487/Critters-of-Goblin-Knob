@@ -20,7 +20,7 @@ credits: true
 
 {% include feature/item-figure.html objectid="demo_001" width="75" %}
 
-Ordered list:
+{% include feature/button.html text="Do you want to know more about goblins?" link="https://cdil.lib.uidaho.edu/storying-extinction/" color="success" %}
 
 1. one
 2. two
