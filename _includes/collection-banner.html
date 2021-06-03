@@ -9,7 +9,7 @@
     background:rgba(0,0,0,.5);
 }
 #home-banner {
-    background-image: url('{% include image/featured-image.html: coll001 %}');
+    background-image: url('{% coll001 %}');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: {{ site.data.theme.home-banner-image-position | default: 'center' }};
