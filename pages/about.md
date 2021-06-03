@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/storying-extinction/mapitem.html?id=caribou-mural-in-sandpoint#lg=1&slide=0" %}
+{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/storying-extinction/mapitem.html?id=caribou-mural-in-sandpoint" %}
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
@@ -17,6 +17,8 @@ credits: true
 - one
 - two
 - three
+
+{% include feature/item-figure.html objectid="demo_001" width="75" %}
 
 Ordered list:
 
