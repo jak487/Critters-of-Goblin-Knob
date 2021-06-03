@@ -12,20 +12,12 @@ credits: true
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
-## About the Collection
+## About Goblin Knob Goblins
 
-- one
-- two
-- three
-
-{% include feature/item-figure.html objectid="demo_001" width="75" %}
+Science knows next to nothing (official status: nothing adjacent) about goblins or goblin ecology. However, deep mappers Jack Kredell and Chris Lamb of the Foulweather Institute of Spatial Ethics and Activism speculate that the presence of goblins could be related to the extirpation of mountain caribou from the surrounding area in 2019. "This collection," writes Chris Lamb, "provides incontrovertible evidence that post-exintction goblins are real and need to be taken seriously as members of the wider ecological community." 
 
 {% include feature/button.html text="Do you want to know more about goblins?" link="https://cdil.lib.uidaho.edu/storying-extinction/" color="success" %}
 
-1. one
-2. two
-
-[hyperlink text](link).
 
 This site is generated using [`collectionbuilder-gh`](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
