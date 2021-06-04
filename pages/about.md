@@ -20,6 +20,8 @@ Science knows next to nothing (official status: nothing adjacent) about goblins 
 
 &nbsp;
 
+{% include feature/button.html text="Do you want to know more about Goblins?" link="https://cdil.lib.uidaho.edu/storying-extinction/about.html" color="success" %}
+
 &nbsp;
 
 This site is generated using [`collectionbuilder-gh`](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
