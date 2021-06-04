@@ -23,11 +23,11 @@ $yiq-text-light:            #fff !default;
 
 /* mixin to generate buttons */
 @mixin theme-button($background, $border, $hover-background: darken($background, 7.5%), $hover-border: darken($border, 10%), $active-background: darken($background, 10%), $active-border: darken($border, 12.5%)) {
-    color: #fff;
+    color: #f9ebea;
     background-color: $background;
     border-color: $border;
     &:hover {
-        color: #fff;
+        color: #f9ebea;
         background-color: $hover-background;
         border-color: $hover-border;
     }
