@@ -18,6 +18,8 @@ Science knows next to nothing (official status: nothing adjacent) about goblins 
 
 {% include feature/item-video-embed.html objectid="coll007" %}
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-hSoJhklMuU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 &nbsp;
 
 {% include feature/button.html text="Do you want to know more about post-extinction goblins?" link="https://cdil.lib.uidaho.edu/storying-extinction/" color="success" %}
