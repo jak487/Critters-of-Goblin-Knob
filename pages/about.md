@@ -16,6 +16,8 @@ credits: true
 
 Science knows next to nothing (official status: nothing adjacent) about goblins or goblin ecology. However, deep mappers Jack Kredell and Chris Lamb of the Foulweather Institute of Spatial Ethics and Activism speculate that the presence of goblins could be related to the extirpation of mountain caribou from the surrounding area in 2019. "This collection," writes Chris Lamb, "provides incontrovertible evidence that post-exintction goblins are real and need to be taken seriously as members of the wider ecological community." 
 
+{% include feature/item-video-embed.html objectid="coll007" %}
+
 &nbsp;
 
 {% include feature/button.html text="Do you want to know more about post-extinction goblins?" link="https://cdil.lib.uidaho.edu/storying-extinction/" color="success" %}
